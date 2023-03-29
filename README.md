@@ -1,16 +1,16 @@
-# temperature_conversion
+# Konversi Temperatur
 
 Aplikasi Mobile untuk Konversi Temperatur
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Latihan Flutter dengan membuat aplikasi konversi temperatur.
+Programnya cukup sederhana dan hasilnya udah masuk akal sih.
 
-A few resources to get you started if this is your first Flutter project:
+## To Do
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Kalau mau diperbaiki lagi yang bisa dirubah lagi adalah:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Inputannya harusnya bisa dari beberapa jenis temperatur
+- Desainnya bisa diperbaiki dengan menampilkan hasil besar di atas
+- Cari lagi cara form handling yang lebih mudah
